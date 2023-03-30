@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c46ec5e5-3ce3-4ebc-b079-43dce2762ff2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo_CRUD_File_Nhi_Phan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rikkei/academy/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rikkei/academy/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rikkei/academy/database/category.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rikkei/academy/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rikkei/academy/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rikkei/academy/service/ICategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rikkei/academy/service/IGenericService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rikkei/academy/view/CategoryView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rikkei/academy/view/Navbar.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NfXxkLWbyXFgGGisHjcJ8VknyE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java10f/module3/Demo_CRUD_File_Nhi_Phan&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Navbar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkei.academy.view.Navbar" />
+      <module name="Demo_CRUD_File_Nhi_Phan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rikkei.academy.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Navbar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c46ec5e5-3ce3-4ebc-b079-43dce2762ff2" name="Changes" comment="" />
+      <created>1680056359641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680056359641</updated>
+      <workItem from="1680056360873" duration="3854000" />
+      <workItem from="1680061376608" duration="360000" />
+      <workItem from="1680061773448" duration="983000" />
+      <workItem from="1680063498817" duration="3716000" />
+      <workItem from="1680145070606" duration="3150000" />
+      <workItem from="1680149295224" duration="1221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
